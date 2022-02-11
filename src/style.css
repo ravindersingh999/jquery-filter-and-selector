@@ -1,0 +1,23 @@
+.wrapper {
+    width: 78%;
+    margin-left: 10%;
+  }
+
+table {
+    
+    text-align: center;
+   
+  }
+  
+  td,th {
+    padding: 12px;
+  }
+  #table {
+    margin-top: 12px;
+    width: 610px;
+  }
+  
+  
+  #os,#brand,#search-input {
+    padding: 5px;
+  }
