@@ -1,23 +1,28 @@
 .wrapper {
-    width: 78%;
-    margin-left: 10%;
-  }
+  width: 78%;
+  margin-left: 10%;
+}
 
 table {
-    
-    text-align: center;
-   
-  }
-  
-  td,th {
-    padding: 12px;
-  }
-  #table {
-    margin-top: 12px;
-    width: 610px;
-  }
-  
-  
-  #os,#brand,#search-input {
-    padding: 5px;
-  }
+  text-align: center;
+  border-collapse: collapse;
+}
+
+tr {
+  border: 1px solid;
+}
+td,
+th {
+  padding: 12px;
+  border: 1px solid;
+}
+#table {
+  margin-top: 12px;
+  width: 610px;
+}
+
+#os,
+#brand,
+#search-input {
+  padding: 5px;
+}
